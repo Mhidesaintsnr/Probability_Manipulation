@@ -25,7 +25,7 @@ It exists to make one thing visible: what "50/50" actually means over many round
 ```bash
 git clone https://github.com/yourusername/see-the-odds.git
 cd see-the-odds
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ## Usage
